@@ -1,0 +1,2 @@
+# Pirmoji
+mano pirmoji repository
